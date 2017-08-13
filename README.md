@@ -1,2 +1,5 @@
 # hello-world
-1st repository
+
+Hi Humans!
+
+Simple is beauty!
